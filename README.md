@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Henrique-Aldrovandi-Lazzarino
+- 👀 I’m interested in Java, Python and WEB
+- 🌱 I’m studying at CentroWEG
+- 👾 I'm learning since 2020
