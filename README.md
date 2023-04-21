@@ -1,6 +1,6 @@
 # Henrique Aldrovandi Lazzarino
 
-Este é o perfil do Henrique Aldrovandi Lazzarino, um estudante do CentroWEG com conhecimentos em Python, Java e desenvolvimento web (HTML, CSS, JS e React).
+Este é o meu perfil, um estudante do CentroWEG com conhecimentos em Python, Java e desenvolvimento WEB (HTML, CSS, JS e React).
 
 ## Sobre mim
 
@@ -16,3 +16,8 @@ Atualmente estou estudando no CentroWEG, onde venho adquirindo novas habilidades
 - CSS
 - JavaScript
 - React
+
+## Projetos
+- [WEB Cordel](https://github.com/henriquelazzarino/WEB_Cordel): Um projeto simples feito com HTML e CSS, criando efeitos Parallax nas imagens
+- [Jogo da Memória](https://github.com/henriquelazzarino/Memory-Game): Jogo com tema da série Rick and Morty, utilizando HTML, CSS e JS
+- [CEP](https://github.com/henriquelazzarino/CEP): Aplicativo que faz a busca de um CEP e retorna um endereço válido
